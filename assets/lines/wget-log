@@ -1,0 +1,6 @@
+--2021-12-17 19:49:16--  https://media.discordapp.net/attachments/912001235429761126/921488777283796992/dean.png?width=499
+Resolving media.discordapp.net (media.discordapp.net)... 162.159.130.232, 162.159.133.232, 162.159.129.232, ...
+Connecting to media.discordapp.net (media.discordapp.net)|162.159.130.232|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2021-12-17 19:49:16 ERROR 400: Bad Request.
+
